@@ -39,4 +39,8 @@
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Floppa Programming Language!](https://dev.to/5elenay/floppa-programming-language-n1f)
+- [Python Brainf*ck Compiler (Alpha)](https://dev.to/5elenay/python-brainf-ck-compiler-alpha-34lf)
+- [VarState, Python Package for State Management.](https://dev.to/5elenay/varstate-python-package-for-state-management-3dn5)
+- [Datagoose, JSON Based Database for Best Performance.](https://dev.to/5elenay/datagoose-json-based-database-for-best-performance-41bb)
 <!-- BLOG-POST-LIST:END -->
