@@ -32,9 +32,9 @@
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Htmotor - Template Engine for Python](https://dev.to/5elenay/htmotor-template-engine-for-python-217h)
 - [Hyaline - Hardest Way to Create Discord Bot](https://dev.to/5elenay/hyaline-harder-way-to-create-discord-bot-3jgj)
 - [Floppa Programming Language!](https://dev.to/5elenay/floppa-programming-language-n1f)
 - [Python Brainf*ck Compiler (Alpha)](https://dev.to/5elenay/python-brainf-ck-compiler-alpha-34lf)
 - [VarState, Python Package for State Management.](https://dev.to/5elenay/varstate-python-package-for-state-management-3dn5)
-- [Datagoose, JSON Based Database for Best Performance.](https://dev.to/5elenay/datagoose-json-based-database-for-best-performance-41bb)
 <!-- BLOG-POST-LIST:END -->
