@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my Profile 👋🤗</h1>
-<h3 align="center">15 Years old fullstack developer. a student that wants to learn new technologies.</h3>
+<h3 align="center">I'm 15 years old programmer from Turkey. I always wanted to learn new technologies!</h3>
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
