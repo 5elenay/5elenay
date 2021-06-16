@@ -1,12 +1,14 @@
 <h1 align="center">Welcome to my Profile 👋🤗</h1>
 <h3 align="center">I'm 15 years old programmer from Turkey. I always wanted to learn new technologies!</h3>
 
-<h3 align="left">Connect with Me:</h3>
+<details align="center">
+<summary style="font-weight: bold; font-size: 24px">About Me</summary>
+<h3 align="left">My Accounts</h3>
 <p align="left">
     <a href="https://dev.to/5elenay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="5elenay" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
     <a href="https://elixir-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40" /> </a>
@@ -22,9 +24,10 @@
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
 </p>
+</details>
 
 <details align="center">
-  <summary style="font-weight: bold; font-size: 24px">GitHub Stats</summary>
+<summary style="font-weight: bold; font-size: 24px">GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=5elenay&show_icons=true&theme=radical" width="%100" height="200px" style="outline:none;" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5elenay&layout=compact&theme=radical" width="%100" height="200px" alt="stats" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5elenay&" alt="starts" width="%100" height="200px" /></p>
