@@ -1,6 +1,12 @@
 <h1 align="center">Welcome to my Profile 👋🤗</h1>
 <h3 align="center">I'm 15 years old programmer from Turkey. I always wanted to learn new technologies!</h3>
 
+<div align="center">
+    
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/793467584820281346)](https://discord.com/users/793467584820281346)
+    
+</div>
+
 <details align="center">
 <summary style="font-weight: bold; font-size: 24px">About Me</summary>
 <h3 align="left">My Accounts</h3>
