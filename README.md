@@ -41,9 +41,9 @@
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ezcli - Minimal Package for Creating CLI apps.](https://dev.to/5elenay/ezcli-minimal-package-for-creating-cli-apps-217p)
 - [Postgrey - Simple, Fast & Async Library for PostgreSQL](https://dev.to/5elenay/postgrey-simple-fast-async-library-for-postgresql-5apd)
 - [Htmotor - Template Engine for Python](https://dev.to/5elenay/htmotor-template-engine-for-python-217h)
 - [Hyaline - Hardest Way to Create Discord Bot](https://dev.to/5elenay/hyaline-harder-way-to-create-discord-bot-3jgj)
 - [Floppa Programming Language!](https://dev.to/5elenay/floppa-programming-language-n1f)
-- [Python Brainf*ck Compiler (Alpha)](https://dev.to/5elenay/python-brainf-ck-compiler-alpha-34lf)
 <!-- BLOG-POST-LIST:END -->
